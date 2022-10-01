@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    color: black;
+    background-color: antiquewhite;
+    font-size: 75px;
+    font-family: helvetica;
+    height: 100px;
+
+}
+#esquerda{
+    color:black;
+    background-color: blue;
+    font-size: 50px;
+    font-family: helvetica;
+    width: 50%;
+    height: 50px;
+    float: left;
+}
+#direita{
+    color: black;
+    background-color: red;
+    font-size: 50px;
+    font-family: helvetica;
+    width: 50%;
+    height: 50px;
+    float: right;
+}

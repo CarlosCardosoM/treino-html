@@ -1,0 +1,17 @@
+header{
+
+
+    height: 100px;
+    background-color: red;
+    color: black;
+}
+#esquerda{
+    height: 100px;
+    width: 60%;
+    float: left;
+}
+#direita{
+    height: 100px;
+    width: 40%;
+    float: right;
+}
